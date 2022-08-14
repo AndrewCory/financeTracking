@@ -1,0 +1,8 @@
+direction,amount,place,date,category
+in,50,tijuana flats,8/12/2022,work
+out,5,mcdonalds,8/11/2022,restaurant
+out,10,falafel inc,8/12/2022,restaurant
+out,4,micro center,8/12/2022,fun stuff
+out,100,rent,8/13/2022,rent
+in,80,tijuana flats,8/14/2022,work
+out,30,friends,8/15/2022,fun stuff
